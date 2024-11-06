@@ -22,9 +22,6 @@ La arquitectura integra múltiples componentes de GCP y herramientas para optimi
   - Looker Studio
 - **Herramienta de Pipeline de Datos**: [Mage.ai](https://www.mage.ai/)
 
-### Contribuir
-Este proyecto utiliza la herramienta de pipeline de datos de código abierto [Mage.ai](https://github.com/mage-ai/mage-ai). ¡Las contribuciones son bienvenidas en su repositorio de GitHub!
-
 ## Conjunto de Datos Utilizado
 Los datos para este proyecto se basan en el TLC Trip Record Data, que incluye registros de viajes de taxis amarillos y verdes. Los campos principales capturan detalles como:
 - Fechas/horas de recogida y entrega
@@ -41,6 +38,7 @@ Los datos para este proyecto se basan en el TLC Trip Record Data, que incluye re
 
 ## Modelo de Datos
 El modelo de datos para este proyecto consiste en tablas estructuradas en BigQuery, diseñadas para optimizar el rendimiento de las consultas y la recuperación de datos. Se aplican transformaciones a los datos para limpiarlos y enriquecerlos, lo que permite un análisis y visualización eficientes.
+
 ![alt text](data_model.jpeg)
 
 ---
