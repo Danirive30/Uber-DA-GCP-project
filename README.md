@@ -10,6 +10,7 @@ La arquitectura integra múltiples componentes de GCP y herramientas para optimi
 - **BigQuery**: Para almacenar y consultar datos estructurados.
 - **Looker Studio**: Para la visualización de datos y creación de reportes.
 - **Herramienta de Pipelines de Datos Mage**: Utilizada para gestionar los pipelines ETL de manera eficiente.
+
 ![alt text](architecture.jpg)
 
 ## Tecnologías Utilizadas
